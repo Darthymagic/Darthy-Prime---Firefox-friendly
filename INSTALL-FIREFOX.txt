@@ -8,6 +8,5 @@ Neopets Darthy Prime — Firefox
 5. Select manifest.json inside the neopets-darthy-prime-firefox folder
 
 Temporary add-ons are removed when Firefox closes.
-To keep it, zip the folder and install that zip from about:addons if your Firefox allows local installs.
 
 Works on https://www.neopets.com/*
